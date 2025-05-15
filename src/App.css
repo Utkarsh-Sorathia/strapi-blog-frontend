@@ -1,0 +1,11 @@
+[data-bs-theme='dark'] {
+  background-color: black;
+  color: white !important;
+}
+
+[data-bs-theme='dark'] {
+  ul.navbar-nav > li.nav-item > a {
+    color: white !important;
+  }
+}
+

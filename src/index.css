@@ -1,0 +1,76 @@
+/* Hero Section */
+.hero-section {
+    background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+    color: white;
+    padding: 80px 0;
+  }
+  
+  /* Buttons */
+  .custom-btn {
+    background: #ff6b81;
+    color: white;
+    padding: 12px 25px;
+    border-radius: 25px;
+    transition: 0.3s ease;
+  }
+  
+  .custom-btn:hover {
+    background: #e05670;
+    color: white;
+  }
+  
+  .custom-outline-btn {
+    background: transparent;
+    border: 2px solid #ff6b81;
+    color: #ff6b81;
+    padding: 12px 25px;
+    border-radius: 25px;
+    transition: 0.3s ease;
+  }
+  
+  .custom-outline-btn:hover {
+    background: #ff6b81;
+    color: white;
+  }
+  
+  /* Feature Boxes */
+  .feature-box {
+    background: white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    transition: 0.3s;
+  }
+  
+  .feature-box:hover {
+    transform: translateY(-5px);
+  }
+  
+  /* Testimonials */
+  .testimonial-section {
+    background: linear-gradient(135deg, #a18cd1, #fbc2eb);
+    color: white;
+  }
+  
+  .testimonial-box {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+    backdrop-filter: blur(5px);
+  }
+  
+  /* Footer */
+  .footer-section {
+    background: #343a40;
+    color: white;
+  }
+  
+  .footer-link {
+    color: #ff6b81;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  .footer-link:hover {
+    text-decoration: underline;
+  }
+  
